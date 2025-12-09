@@ -9,7 +9,7 @@
 ⚙️  Previously studied **Computer & Network Engineering** at SMK 1 Batanghari.
 ✍️  Enjoy designing clean UI, solving problems, and building structured, scalable projects.
 💬  Open for collaboration, internship opportunities, and tech discussions.
-✉️  Reach me anytime via email: **[your.email@example.com](mailto:your.email@example.com)**.
+✉️  Reach me anytime via email: **[faridrakapratama@gmail.com](mailto:faridrakapratama@gmail.com)**.
 📄  Portfolio is in progress — soon available online.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -33,9 +33,9 @@
 ### ⚙️  GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/faridraka">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridraka&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -43,8 +43,8 @@
 
 <p align="center">
 <a href="https://your-portfolio.example"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/faridraka"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:faridrakapratama@gmail.com"><img src="https://img.shields.io/badge/-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
