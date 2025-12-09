@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2>Hey there! I'm Farid Raka</h2>
 
-### 👨🏻‍💻  About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 💡  Frontend developer in progress — building strong fundamentals in modern web development.
 🎓  Currently studying **Computer Science at Cakrawala University**.
@@ -14,7 +14,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠  Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-0A0A0A?style=flat\&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-0A0A0A?style=flat\&logo=CSS3\&logoColor=1572B6) 
@@ -30,17 +30,16 @@
 ![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat\&logo=figma) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0A0A0A?style=flat\&logo=visual-studio-code\&logoColor=007ACC)
 
-### ⚙️  GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/faridraka">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridraka&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://raw.githubusercontent.com/faridraka/faridraka/output/github-contribution-grid-snake-dark.svg" />
 </a>
 </p>
 
-### 🤝🏻  Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://your-portfolio.example"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
