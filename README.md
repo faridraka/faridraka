@@ -1,5 +1,5 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
-<h2>Hey there! I'm Farid</h2>
+<h2>Hey there! I'm Farid Raka</h2>
 
 ### 👨🏻‍💻  About Me
 
@@ -33,9 +33,10 @@
 ### ⚙️  GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/faridraka">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridraka&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github.com/faridraka/faridraka/blob/output/github-contribution-grid-snake-dark.svg" />
 </a>
 </p>
 
