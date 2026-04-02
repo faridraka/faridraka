@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://faridraka.dev"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/faridraka"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:faridrakapratama@gmail.com"><img src="https://img.shields.io/badge/-your.email@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:faridrakapratama@gmail.com"><img src="https://img.shields.io/badge/-faridrakapratama@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fridrkaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
