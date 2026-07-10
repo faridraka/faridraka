@@ -19,6 +19,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-0A0A0A?style=flat\&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-0A0A0A?style=flat\&logo=CSS3\&logoColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat\&logo=javascript) 
+![Golang](https://img.shields.io/badge/-Golang-0A0A0A?style=flat\&logo=go)
+![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat\&logo=python)
 ![React](https://img.shields.io/badge/-React-0A0A0A?style=flat\&logo=react) 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0A0A0A?style=flat\&logo=tailwindcss) 
 ![Next.js](https://img.shields.io/badge/-Next.js-0A0A0A?style=flat\&logo=nextdotjs) 
@@ -46,6 +48,7 @@
 <a href="https://linkedin.com/in/faridraka"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:faridrakapratama@gmail.com"><img src="https://img.shields.io/badge/-faridrakapratama@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fridrkaa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.threads.com/@fridrkaa"><img src="https://img.shields.io/badge/-Threads-E4405F?style=flat&logo=Threads&logoColor=white"></a>
 </p>
 
 <!-- END -->
