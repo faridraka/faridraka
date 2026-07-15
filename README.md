@@ -49,12 +49,18 @@
 <br clear="both">
 
 ### ⚙️ GitHub Analytics
-
+ 
 <p align="center">
   <a href="https://github.com/faridraka">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridraka&layout=compact&langs_count=10&theme=algolia"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridraka&theme=algolia" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faridraka&theme=minimal" alt="Contribution Graph"/>
 </p>
 
 ### 🤝🏻 Connect with Me
