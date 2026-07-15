@@ -71,4 +71,8 @@
   <a href="https://www.threads.com/@fridrkaa"><img src="https://img.shields.io/badge/-Threads-0A0A0A?style=flat&logo=Threads&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — keep building, keep learning 🚀</i>
+</p>
+
 <!-- END -->
