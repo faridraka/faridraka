@@ -15,6 +15,12 @@
 - ✉️ Reach me anytime via email: **[faridrakapratama@gmail.com](mailto:faridrakapratama@gmail.com)**.
 - 📄 Portfolio is in progress — soon available online.
 
+
+### 💼 Experience
+ 
+- **Backend Engineer Intern** @ PT. Benih Investasi Teknologi *(Apr – Jul 2026)* — building & refactoring backend features with Golang, PostgreSQL, and gRPC.
+- **Network Engineer Intern** @ PT. Buana Visualnet Sentra *(Jan – Mar 2023)* — fiber optic installation & troubleshooting.
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280" align="right"/>
 
 ### 🛠 Tech Stack
@@ -22,14 +28,19 @@
 ![HTML](https://img.shields.io/badge/-HTML-0A0A0A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0A0A0A?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?style=flat&logo=typescript)
 ![Golang](https://img.shields.io/badge/-Golang-0A0A0A?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-0A0A0A?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-0A0A0A?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0A0A0A?style=flat&logo=tailwindcss)
 ![Next.js](https://img.shields.io/badge/-Next.js-0A0A0A?style=flat&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/-Vue.js-0A0A0A?style=flat&logo=vuedotjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-0A0A0A?style=flat&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat&logo=node.js)
+![gRPC](https://img.shields.io/badge/-gRPC-0A0A0A?style=flat&logo=google)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0A0A0A?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0A0A?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-0A0A0A?style=flat&logo=amazonaws)
 ![Git](https://img.shields.io/badge/-Git-0A0A0A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma)
