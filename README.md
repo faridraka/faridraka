@@ -2,8 +2,6 @@
 
 ## Hey there! I'm Farid Raka
 
-<br clear="both">
-
 ### 👨🏻‍💻 About Me
 
 - 💡 Frontend developer in progress — building strong fundamentals in modern web development.
