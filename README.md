@@ -48,18 +48,14 @@
 
 ### ⚙️ GitHub Analytics
  
-<p align="center">
-  <a href="https://github.com/faridraka">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridraka&layout=compact&langs_count=10&theme=algolia"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridraka&theme=algolia" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faridraka&theme=minimal" alt="Contribution Graph"/>
-</p>
+<div align="center">
+ <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=6D28D9&text_color=E9D5FF"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridraka&layout=compact&langs_count=10&theme=algolia&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faridraka&theme=algolia&hide_border=true&background=0D0221&ring=6D28D9&fire=A78BFA&currStreakLabel=E9D5FF" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faridraka&theme=minimal&bg_color=0D0221&color=A78BFA&line=6D28D9&point=E9D5FF" alt="Contribution Graph" width="90%"/>
+</div>
 
 ### 🤝🏻 Connect with Me
 
