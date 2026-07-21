@@ -1,24 +1,19 @@
-<img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"/>
-
-## Hey there! I'm Farid Raka
-
 ### 👨🏻‍💻 About Me
 
-- 💡 Frontend developer in progress — building strong fundamentals in modern web development.
-- 🎓 Currently studying **Computer Science at Cakrawala University**.
-- 🌱 Focused on learning **React, Tailwind, Next.js, and Express.js** to grow toward fullstack.
-- ⚙️ Previously studied **Computer & Network Engineering** at SMK 1 Batanghari.
-- ✍️ Enjoy designing clean UI, solving problems, and building structured, scalable projects.
-- 💬 Open for collaboration, internship opportunities, and tech discussions.
-- ✉️ Reach me anytime via email: **[faridrakapratama@gmail.com](mailto:faridrakapratama@gmail.com)**.
-- 📄 Portfolio is in progress — soon available online.
+I'm a Computer Science student at **Cakrawala University**, currently focused on building strong fundamentals in modern frontend development — **React, Tailwind CSS, Next.js**, and **Express.js** — while working toward becoming a fullstack developer.
 
+Before this, I studied **Computer & Network Engineering** at SMK 1 Batanghari, which gave me a solid grounding in networking and infrastructure before I moved into software development. I enjoy designing clean, thoughtful UI and building projects that are structured and scalable rather than just "working."
+
+**🌱 Open to:** internship opportunities, collaboration, and tech discussions
+**📄 Portfolio:** in progress — coming soon
+**✉️ Reach me:** [faridrakapratama@gmail.com](mailto:faridrakapratama@gmail.com)
 
 ### 💼 Experience
  
 - **Backend Engineer Intern** @ PT. Benih Investasi Teknologi *(Apr – Jul 2026)* — building & refactoring backend features with Golang, PostgreSQL, and gRPC.
 - **Network Engineer Intern** @ PT. Buana Visualnet Sentra *(Jan – Mar 2023)* — fiber optic installation & troubleshooting.
 
+<div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="280" align="right"/>
 
 ### 🛠 Tech Stack
@@ -43,6 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0A0A0A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+</div>
 
 <br clear="both">
 
