@@ -50,7 +50,7 @@ Before this, I studied **Computer & Network Engineering** at SMK 1 Batanghari, w
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridraka&theme=algolia&hide_border=true&background=0D0221&ring=6D28D9&fire=A78BFA&currStreakLabel=E9D5FF" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faridraka&theme=minimal&bg_color=0D0221&color=A78BFA&line=6D28D9&point=E9D5FF" alt="Contribution Graph" width="90%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=faridraka&theme=minimal&bg_color=0D0221&color=A78BFA&line=6D28D9&point=E9D5FF" alt="Contribution Graph" width="90%"/> -->
 </div>
 
 ### 🤝🏻 Connect with Me
